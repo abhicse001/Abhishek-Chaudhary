@@ -8,7 +8,7 @@ Full Stack Enthusiast
 --------------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [amansrivastava8778@gmail.com](mailto:amansrivastava8778@gmail.com)
+* ✉️  You can contact me at [abhishek001cse@gmail.com](mailto:abhishek001cse@gmail.com)
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'am greedy for learning things
